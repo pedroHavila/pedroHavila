@@ -1,13 +1,15 @@
 <h1 align="center">Olá, me chamo Pedro Havila</h1>
 <h3 align="center">Engenheiro de dados| Analista de dados| Desenvolvedor</h3>
 
-- Atualmente trabalho com desenvolvimento para Startups [Pcook]('Adicionar')
+- Atualmente trabalho com desenvolvimento de aplicações web e mobile na [Pcook](https://pcook.com.br/)
 
-- Atualmente estou desenvolvendo habilidades em: **DBA| ETL| PROGRAMAÇÃO| SEGURANÇA DE INFORMAÇÃO E DADOS**
+- Analista/engenheiro de dados na [Ligga telecom](https://ligga-internet.com/cidades/curitiba?gclid=CjwKCAiA8OmdBhAgEiwAShr40-kf7cZjKgXSLFT64trq42j9CS1T4Mx4S2ZAcLzkmLa3m7tdQFh9WhoCfnkQAvD_BwE)
+
+- Desenvolvendo habilidades em: **DBA| ETL| PROGRAMAÇÃO| SEGURANÇA DE INFORMAÇÃO E DADOS**
 
 - Possuo colaboração em Pesquisas Científicas [Domus](https://domus.pucpr.br/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-havila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-havila/" height="30" width="40" /></a>
 </p>
