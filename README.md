@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Pedro Havila</h1>
+<h1 align="center">Bem vindo(a), me chamo Pedro Havila</h1>
 <h3 align="center">Engenheiro de dados| Analista de dados| Desenvolvedor</h3>
 
 - Atualmente trabalho com desenvolvimento de aplicações web e mobile na [Pcook](https://pcook.com.br/)
