@@ -1,9 +1,7 @@
 <h1 align="center">Bem vindo(a), me chamo Pedro Havila</h1>
 <h3 align="center">Engenheiro de dados| Analista de dados| Desenvolvedor</h3>
 
-- Atualmente trabalho com desenvolvimento de aplicações web e mobile na [Pcook](https://pcook.com.br/)
-
-- Analista/engenheiro de dados na [Ligga telecom](https://ligga-internet.com/cidades/curitiba?gclid=CjwKCAiA8OmdBhAgEiwAShr40-kf7cZjKgXSLFT64trq42j9CS1T4Mx4S2ZAcLzkmLa3m7tdQFh9WhoCfnkQAvD_BwE)
+- Analista/engenheiro de dados na [GR Parceria](http://grparceria.com.br/)
 
 - Desenvolvendo habilidades em: **DBA| ETL| PROGRAMAÇÃO| SEGURANÇA DE INFORMAÇÃO E DADOS**
 
