@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo(a), me chamo Pedro Havila</h1>
 <h3 align="center">Engenheiro de dados| Analista de dados| Desenvolvedor</h3>
 
-- Analista/engenheiro de dados na [GR Parceria](http://grparceria.com.br/)
+- Analista/engenheiro de dados na [Cogecom]((https://cogecom.com.br/))
 
 - Desenvolvendo habilidades em: **DBA| ETL| PROGRAMAÇÃO| SEGURANÇA DE INFORMAÇÃO E DADOS**
 
